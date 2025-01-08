@@ -15,11 +15,11 @@ I am currently learning Python and other computational tools to apply them to pr
 
 ### Projects
 Here are some of my projects related to computational chemistry and cheminformatics:
-- [**Molecular Property Prediction**](link-to-repo)
+- **Molecular Property Prediction** (link to be updated!)
   - Predicting molecular properties using Python and RDKit.
-- [**Drug Discovery Data Analysis**](link-to-repo)
+- **Drug Discovery Data Analysis** (link to be updated!)
   - Analyzing trends in bioactivity data with Pandas and Matplotlib.
-- [**Reaction Network Analysis**](link-to-repo)
+- **Reaction Network Analysis** (link to be updated!)
   - Simulating chemical reaction networks with Python.
 
 Check out these repositories for more details!
