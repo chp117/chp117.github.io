@@ -1,4 +1,4 @@
-# Computational Chemistry Enthusiast
+## Computational Chemistry Enthusiast
 
 Welcome to my GitHub portfolio! 
 
