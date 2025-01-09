@@ -5,9 +5,10 @@ Welcome to my GitHub portfolio! I am a chemistry student with a strong interest 
 ---
 
 ## About Me
-- **Education:** B.Sc. in Chemistry @ RWTH Aachen 
-- **Experience:** Lab Assistant @ SK Chemicals  
-  - Focused on pharmaceutical analysis
+**Education:** B.Sc. in Chemistry @ RWTH Aachen 
+
+**Experience:** Lab Assistant @ SK Chemicals  
+&emsp; &emsp; &emsp; &ensp; &ensp; (Focused on pharmaceutical analysis)
 
 I am currently learning Python and other computational tools to apply them to problems in chemistry and drug discovery. This portfolio documents my projects, skills, and progress as I develop expertise in computational methods.
 
@@ -28,8 +29,10 @@ Check out these repositories for more details!
 ---
 
 ## Skills and Tools
-- **Programming Languages:** Python    
-- **Libraries:** RDKit, Pandas, Matplotlib, NetworkX (learning in progress)    
+- **Programming Languages:** Python
+      
+- **Libraries:** RDKit, Pandas, Matplotlib, NetworkX (learning in progress)
+      
 - **Other Tools:** Git, Jupyter Notebooks  
 
 ---
