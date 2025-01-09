@@ -5,10 +5,9 @@ Welcome to my GitHub portfolio! I am a chemistry student with a strong interest 
 ---
 
 ## About Me
-**Education:** B.Sc. in Chemistry @ RWTH Aachen
-  
-**Experience:** Lab Assistant @ SK Chemicals
-- Focused on pharmaceutical analysis
+- **Education:** B.Sc. in Chemistry @ RWTH Aachen 
+- **Experience:** Lab Assistant @ SK Chemicals  
+  - Focused on pharmaceutical analysis
 
 I am currently learning Python and other computational tools to apply them to problems in chemistry and drug discovery. This portfolio documents my projects, skills, and progress as I develop expertise in computational methods.
 
@@ -17,25 +16,21 @@ I am currently learning Python and other computational tools to apply them to pr
 ## Projects
 Here are some of my projects related to computational chemistry and cheminformatics:
 
-[**Molecular Property Prediction**](link-to-repo)
-- Predicting molecular properties using Python and RDKit.
-    
-[**Drug Discovery Data Analysis**](link-to-repo)
-- Analyzing trends in bioactivity data with Pandas and Matplotlib.
-    
-[**Reaction Network Analysis**](link-to-repo)
-- Simulating chemical reaction networks with Python.
+- [**Molecular Property Prediction**](link-to-repo)
+  - Predicting molecular properties using Python and RDKit.
+- [**Drug Discovery Data Analysis**](link-to-repo)
+  - Analyzing trends in bioactivity data with Pandas and Matplotlib.
+- [**Reaction Network Analysis**](link-to-repo)
+  - Simulating chemical reaction networks with Python.
 
 Check out these repositories for more details!
 
 ---
 
 ## Skills and Tools
-**Programming Languages:** Python
-    
-**Libraries:** RDKit, Pandas, Matplotlib, NetworkX (learning in progress)
-    
-**Other Tools:** Git, Jupyter Notebooks  
+- **Programming Languages:** Python    
+- **Libraries:** RDKit, Pandas, Matplotlib, NetworkX (learning in progress)    
+- **Other Tools:** Git, Jupyter Notebooks  
 
 ---
 
