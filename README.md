@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! 
 
-I am a chemistry student with a strong interest in **computational chemistry**, **cheminformatics**, and **computer-aided drug discovery (CADD)**. 
+I am a chemistry student with a strong interest in computational chemistry, cheminformatics, and computer-aided drug discovery (CADD). 
 
 This repository showcases my journey of learning and integrating Python programming with chemistry to explore modern scientific challenges.
 
