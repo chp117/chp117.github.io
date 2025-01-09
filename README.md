@@ -1,16 +1,20 @@
 # Computational Chemistry Enthusiast
 
-Welcome to my GitHub portfolio! I am a chemistry student with a strong interest in **computational chemistry**, **cheminformatics**, and **computer-aided drug discovery (CADD)**. This repository showcases my journey of learning and integrating Python programming with chemistry to explore modern scientific challenges.
+Welcome to my GitHub portfolio! 
+
+I am a chemistry student with a strong interest in **computational chemistry**, **cheminformatics**, and **computer-aided drug discovery (CADD)**. 
+
+This repository showcases my journey of learning and integrating Python programming with chemistry to explore modern scientific challenges.
 
 ---
 
 ## About Me
-**Education:** B.Sc. in Chemistry @ RWTH Aachen 
+- **Education:** B.Sc. in Chemistry @ RWTH Aachen 
 
-**Experience:** Lab Assistant @ SK Chemicals  
-&emsp; &emsp; &emsp; &ensp; &ensp; (Focused on pharmaceutical analysis)
+- **Experience:** Lab Assistant @ SK Chemicals  
+  - Focused on pharmaceutical analysis
 
-I am currently learning Python and other computational tools to apply them to problems in chemistry and drug discovery. This portfolio documents my projects, skills, and progress as I develop expertise in computational methods.
+- I am currently learning Python and other computational tools to apply them to problems in chemistry and drug discovery. This portfolio documents my projects, skills, and progress as I develop expertise in computational methods.
 
 ---
 
