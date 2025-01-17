@@ -21,7 +21,7 @@ This repository showcases my journey of learning and integrating Python programm
 ## Projects
 Here are some of my projects related to computational chemistry and cheminformatics:
 
-- [**Molecular Property Prediction**]([link-to-repo](https://github.com/chp117/Molecular_Property_Prediction))
+- [**Molecular Property Prediction**](https://github.com/chp117/Molecular_Property_Prediction)
   - Predicting molecular properties using Python and RDKit.
 - [**Drug Discovery Data Analysis**](link-to-repo)
   - Analyzing trends in bioactivity data with Pandas and Matplotlib.
