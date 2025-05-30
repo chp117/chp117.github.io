@@ -22,7 +22,7 @@ This repository showcases my journey of learning and integrating Python programm
 Here are some of my projects related to computational chemistry and cheminformatics:
 
 - [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](https://github.com/chp117/Projects/tree/main/Molecular_Property_Prediction) 
-   - A quantum chemical study of the S<sub>N</sub>2 reaction mechanism using Psi4
+   - Investigates the S<sub>N</sub>2 reaction mechanism including TS search, IRC calculation and energy profile analysis.
 - [Computational Analysis of Diels-Alder Reaction](https://github.com/tree/main/chp117/Projects/Diels_Alder)
    - Explores reactivity and orbital interactions in Diels–Alder reactions through quantum chemistry.  
 - [Molecular Property Prediction](https://github.com/chp117/Projects/tree/main/Molecular_Property_Prediction)
@@ -37,7 +37,7 @@ Check out these repositories for more details!
 ## Skills and Tools
 - **Programming Languages:** Python
       
-- **Libraries:** Psi4, py3Dmol, RDKit, Sklearn, Pandas, Matplotlib, NumPy 
+- **Libraries:** Psi4, py3Dmol, RDKit, scikit-learn, Pandas, Matplotlib, NumPy 
       
 - **Other Tools:** Git, BASH 
 
