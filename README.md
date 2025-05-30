@@ -21,12 +21,24 @@ This repository showcases my journey of learning and integrating Python programm
 ## Projects
 Here are some of my projects related to computational chemistry and cheminformatics:
 
-- [**Molecular Property Prediction**](https://github.com/chp117/Molecular_Property_Prediction)
-  - Predicting molecular properties using Python and RDKit.
-- [**Drug Discovery Data Analysis**](link-to-repo)
-  - Analyzing trends in bioactivity data with Pandas and Matplotlib.
-- [**Reaction Network Analysis**](link-to-repo)
-  - Simulating chemical reaction networks with Python.
+### Computational Chemistry
+
+#### [Computational Mechanistic Study of S<sub>N</sub>2 Reaction](https://github.com/chp117/Projects/Molecular_Property_Prediction)
+A quantum chemical study of the S<sub>N</sub>2 reaction mechanism.  
+Includes **transition state (TS) search**, **IRC calculations**, and **energy profile analysis** using Psi4.
+
+#### [Computational Analysis of Diels-Alder Reaction](https://github.com/chp117/Projects/Diels_Alder)
+Explores reactivity and orbital interactions in Diels–Alder reactions through quantum chemistry.  
+Focuses on **FMO analysis**, **substituent effects**, **PES scans**, and **3D orbital visualization** using Psi4.
+
+### Cheminformatics
+
+#### [Molecular Property Prediction](https://github.com/chp117/Projects/Molecular_Property_Prediction)
+Develops a prediction model for **aqueous solubility (LogS)** of drug-like molecules using **Machine Learning** (MLR and Random Forest).  
+Features **data wrangling**, **Mordred molecular descriptors**, **model evaluation**, and **feature importance**.
+
+#### [Chemical Equation Balancer](https://github.com/chp117/Projects/Equation-Balancer)
+A Python script for balancing chemical equations from diverse input formats including molecular/condensed formulas of organic molecules and formulas with brackets for inorganic compounds.
 
 Check out these repositories for more details!
 
